@@ -11,7 +11,6 @@ def main():
     
     
     
-    fh.copy_file("Test/texto1.txt", "Test/texto3", overwrite=True)
 
 if __name__ == "__main__":
     main()
