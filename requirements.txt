@@ -1,0 +1,2 @@
+# Add your project dependencies here as you need them
+# For now, no external dependencies required for basic file operations
